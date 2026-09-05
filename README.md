@@ -1,17 +1,142 @@
-<!-- Name Card -->
+# Hi, I'm Ali Nabilah Ramadhan
 
-![Ali Nabilah Ramadhan's card name](https://cardivo.vercel.app/api?name=Ali%20Nabilah%20Ramadhan&description=Hi,%20i%27m%20a%20junior%20developer%20(?)%20nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/u/60024530?v=4&backgroundColor=%23161b22&fontColor=%23c9d1d9&pattern=topography&colorPattern=%2326292e&github=morganaaa1&twitter=AliNabilahRama1&instagram=morganaaa_1&iconColor=%23c9d1d9)
+L2 Operational Analyst / Application Technical Support & Frontend Developer based in Indonesia.
 
----
+## About Me
 
-<div align="center">
-<a href="mailto:alinabilahramadhan@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> 
-  <a href="https://twitter.com/AliNabilahRama1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/morganaaa_1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+[![](https://visitor-badge.laobi.icu/badge?page_id=morganaaa1.morganaaa1)](https://visitor-badge.laobi.icu/badge?page_id=morganaaa1.morganaaa1)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alinabilahramadhan@gmail.com)](mailto:alinabilahramadhan@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alinabilahramadhan)
+[![](https://img.shields.io/github/stars/morganaaa1?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=morganaaa1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)
+[![](https://img.shields.io/github/followers/morganaaa1?color=27da6b&logo=Handshake)](https://github.com/morganaaa1?tab=followers)
+
+## Experience
+
+### 🔴 **L2 Operational Analyst – Turbo Charging / R1**
+*Telkomsel* | **May 2023 — Present**
+- Managed Application Transaction called **Turbo Charging / Revenue One** at Telkomsel.
+- Responsible for monitoring incident alerts, identifying, analyzing, and solving cases according to defined SLAs.
+- Provided advisory and hands-on troubleshooting based on service to solve customer issues according to the SLA.
+
+### 🔷 **Frontend Developer – Paradina**
+*Paradina* | **Oct 2023 — Dec 2023**
+- Built and developed web app ordering management system for Paradina.
+
+### 💳 **L2 Application Technical Support – Payment Gateway**
+*Telkomsel* | **Feb 2023 — May 2023**
+- Managed Application API Transaction Payment Gateway at Telkomsel.
+- Monitored incident alerts, identified, analyzed, and solved cases according to defined SLAs.
+- Conducted implementation and ensured deployment and configuration based on work order and timeline.
+- Provided advisory and hands-on troubleshooting based on service to solve customer issues according to SLA.
+
+### 📱 **L2 Application Technical Support – DigiPOS Aja!**
+*Telkomsel* | **Jan 2022 — Jan 2023**
+- Managed Application Transaction called **DigiPOS** at Telkomsel.
+- Monitored incident alerts, identified, analyzed, and solved cases according to defined SLAs.
+- Conducted implementation and ensured deployment and configuration based on work order and timeline.
+- Provided advisory and hands-on troubleshooting based on service to solve customer issues according to SLA.
+
+## Education
+
+- **Software Engineering** – SMKN 1 KATAPANG
+
+## Tools
+
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://figma.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.redhat.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+## Technology Stack
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.openshift.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/> </a> <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+## Stats
+
+![](./profile/stats.svg)
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=morganaaa1&theme=material-palenight&hide_border=false" alt="morganaaa1" /></p>
+
+![](./profile/top-langs.svg)
+
+![](./profile/trophy.svg)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C021%20hrs%2025%20mins-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 37 Contributions in the Year 2026
+ > 
+> 📦 237.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 66 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+🌆 Daytime    31 commits     ████████████░░░░░░░░░░░░░   49.21% 
+🌃 Evening    19 commits     ███████░░░░░░░░░░░░░░░░░░   30.16% 
+🌙 Night      8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.98% 
+Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
+Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Friday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+Saturday     16 commits     ██████░░░░░░░░░░░░░░░░░░░   25.4% 
+Sunday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Markdown                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+
+ Last Updated on 05/09/2026
+<!--END_SECTION:waka-->
+
+<!--
+**morganaaa1/morganaaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
