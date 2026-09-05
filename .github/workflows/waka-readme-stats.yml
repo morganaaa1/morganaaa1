@@ -1,27 +1,20 @@
-name: Waka Readme Stats
+name: Waka Readme
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
   schedule:
+    # Jalan tiap hari jam 00:00 UTC (sesuaikan sendiri)
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # biar bisa di-trigger manual dari tab Actions
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
-
-
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
