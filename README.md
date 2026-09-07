@@ -12,29 +12,29 @@ L2 Operational Analyst / Application Technical Support & Frontend Developer base
 
 ## Experience
 
-### 🔴 **L2 Operational Analyst – Turbo Charging / R1**
-*Telkomsel* | **May 2023 — Present**
-- Managed Application Transaction called **Turbo Charging / Revenue One** at Telkomsel.
-- Responsible for monitoring incident alerts, identifying, analyzing, and solving cases according to defined SLAs.
-- Provided advisory and hands-on troubleshooting based on service to solve customer issues according to the SLA.
+### L2 Operational Analyst — Turbo Charging / RevenueOne (R1)
+**Telkomsel** | May 2023 — Present
+- Manage application transactions for Turbo Charging / RevenueOne (R1) at Telkomsel.
+- Monitor incident alerts, and perform identification, analysis, and resolution of cases in accordance with defined SLAs.
+- Provide advisory support and hands-on troubleshooting for service-related issues to ensure SLA compliance.
 
-### 🔷 **Frontend Developer – Paradina**
-*Paradina* | **Oct 2023 — Dec 2023**
-- Built and developed web app ordering management system for Paradina.
+### Frontend Developer
+**Paradina** | Oct 2023 — Dec 2023
+- Designed and developed a web-based order management system for Paradina.
 
-### 💳 **L2 Application Technical Support – Payment Gateway**
-*Telkomsel* | **Feb 2023 — May 2023**
-- Managed Application API Transaction Payment Gateway at Telkomsel.
-- Monitored incident alerts, identified, analyzed, and solved cases according to defined SLAs.
-- Conducted implementation and ensured deployment and configuration based on work order and timeline.
-- Provided advisory and hands-on troubleshooting based on service to solve customer issues according to SLA.
+### L2 Application Technical Support — Payment Gateway
+**Telkomsel** | Feb 2023 — May 2023
+- Managed application API transactions for the Payment Gateway service at Telkomsel.
+- Monitored incident alerts, and performed identification, analysis, and resolution of cases in accordance with defined SLAs.
+- Executed implementation tasks and ensured proper deployment and configuration based on work orders and timelines.
+- Provided advisory support and hands-on troubleshooting for service-related issues to ensure SLA compliance.
 
-### 📱 **L2 Application Technical Support – DigiPOS Aja!**
-*Telkomsel* | **Jan 2022 — Jan 2023**
-- Managed Application Transaction called **DigiPOS** at Telkomsel.
-- Monitored incident alerts, identified, analyzed, and solved cases according to defined SLAs.
-- Conducted implementation and ensured deployment and configuration based on work order and timeline.
-- Provided advisory and hands-on troubleshooting based on service to solve customer issues according to SLA.
+### L2 Application Technical Support — DigiPOS Aja!
+**Telkomsel** | Jan 2022 — Jan 2023
+- Managed application transactions for the DigiPOS platform at Telkomsel.
+- Monitored incident alerts, and performed identification, analysis, and resolution of cases in accordance with defined SLAs.
+- Executed implementation tasks and ensured proper deployment and configuration based on work orders and timelines.
+- Provided advisory support and hands-on troubleshooting for service-related issues to ensure SLA compliance.
 
 ## Education
 
