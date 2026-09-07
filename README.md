@@ -63,7 +63,7 @@ L2 Operational Analyst / Application Technical Support & Frontend Developer base
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -106,22 +106,42 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     26 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+JavaScript               23 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
+Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+email-alert-bot          41 mins             ███████████████░░░░░░░░░░   60.90 % 
+morganaaa1               26 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 6 mins (97.22%)
+
+✍️ 27 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 19 AI Prompts
+
+Gemini                   27 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 232 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,7 +161,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/morganaaa1/morganaaa1/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 04:07:26 UTC
+ Last Updated on 07/09/2026 04:06:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
