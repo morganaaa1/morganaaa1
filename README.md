@@ -106,40 +106,40 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     52 mins             ██████████░░░░░░░░░░░░░░░   39.88 % 
-JavaScript               46 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
-Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+YAML                     52 mins             ██████████░░░░░░░░░░░░░░░   40.09 % 
+JavaScript               45 mins             █████████░░░░░░░░░░░░░░░░   34.50 % 
+Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 12 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-morganaaa1               1 hr 8 mins         █████████████░░░░░░░░░░░░   51.68 % 
-email-alert-bot          1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.32 % 
+morganaaa1               1 hr 8 mins         █████████████░░░░░░░░░░░░   51.95 % 
+email-alert-bot          1 hr 3 mins         ████████████░░░░░░░░░░░░░   48.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (98.57%)
+⏱ AI Coding Time: 2 hrs 10 mins (98.56%)
 
-✍️ 158 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 130 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 36 AI Prompts
+🧠 8 AI Sessions, 35 AI Prompts
 
-Gemini                   159 lines           █████████████████████████   100.00 % 
+Gemini                   131 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 442 characters per prompt
+📝 Concise Prompter — average 447 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -161,7 +161,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/morganaaa1/morganaaa1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 04:12:05 UTC
+ Last Updated on 11/09/2026 04:11:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
