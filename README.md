@@ -106,42 +106,22 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     26 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
-JavaScript               23 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-email-alert-bot          41 mins             ███████████████░░░░░░░░░░   60.90 % 
-morganaaa1               26 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (97.22%)
-
-✍️ 27 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 19 AI Prompts
-
-Gemini                   27 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 232 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +141,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/morganaaa1/morganaaa1/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 04:22:51 UTC
+ Last Updated on 14/09/2026 04:29:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
