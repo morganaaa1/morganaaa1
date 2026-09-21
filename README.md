@@ -63,7 +63,7 @@ L2 Operational Analyst / Application Technical Support & Frontend Developer base
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -155,7 +155,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/morganaaa1/morganaaa1/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 04:31:40 UTC
+ Last Updated on 21/09/2026 04:29:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
